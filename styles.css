@@ -1,0 +1,17 @@
+body {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    color: lightgoldenrodyellow
+}
+
+p{
+    color: lightgoldenrodyellow
+}
+
+a{
+    color: lightseagreen
+}
